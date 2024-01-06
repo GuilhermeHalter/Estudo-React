@@ -36,3 +36,20 @@ Execute este comando para executar o aplicativo React
 ```bash
 npm start
 ```
+
+
+
+
+
+
+
+
+
+
+### Sites Referências/Estudo
+
+**Sites para estudo:**
+- [W3schools](https://www.w3schools.com/react/default.asp)
+
+**Curso em video aula**
+- [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=1)
